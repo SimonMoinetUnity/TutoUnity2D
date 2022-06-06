@@ -61199,30 +61199,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 8298375988842637170, guid: 6533017f67744754789e7478d2e17748, type: 3}
-      propertyPath: m_Size.y
-      value: 0.87757003
-      objectReference: {fileID: 0}
-    - target: {fileID: 8298375988842637170, guid: 6533017f67744754789e7478d2e17748, type: 3}
-      propertyPath: m_Offset.y
-      value: -0.2039978
-      objectReference: {fileID: 0}
-    - target: {fileID: 8298375988842637171, guid: 6533017f67744754789e7478d2e17748, type: 3}
-      propertyPath: m_Mass
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 8298375988842637171, guid: 6533017f67744754789e7478d2e17748, type: 3}
-      propertyPath: m_Material
-      value: 
-      objectReference: {fileID: 6200000, guid: 4178092c3b2522c44bd3e44d2f4813cd, type: 2}
-    - target: {fileID: 8298375988842637171, guid: 6533017f67744754789e7478d2e17748, type: 3}
-      propertyPath: m_LinearDrag
-      value: 0.1
-      objectReference: {fileID: 0}
-    - target: {fileID: 8298375988842637171, guid: 6533017f67744754789e7478d2e17748, type: 3}
-      propertyPath: m_GravityScale
-      value: 1.4
-      objectReference: {fileID: 0}
     - target: {fileID: 8298375988842637173, guid: 6533017f67744754789e7478d2e17748, type: 3}
       propertyPath: m_Name
       value: Player
