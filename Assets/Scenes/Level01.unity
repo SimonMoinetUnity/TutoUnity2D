@@ -61186,6 +61186,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: CurrentSceneManager
       objectReference: {fileID: 0}
+    - target: {fileID: 4307919185662875248, guid: 15523b3e44b41d14880d85f195535732, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7474168089755954134, guid: 15523b3e44b41d14880d85f195535732, type: 3}
       propertyPath: levelToUnlock
       value: 2
