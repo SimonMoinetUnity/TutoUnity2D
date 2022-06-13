@@ -24,7 +24,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8298375988171812146}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0, y: -0.309, z: 0}
+  m_LocalPosition: {x: 0.004, y: -0.467, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -63,7 +63,7 @@ Transform:
   m_GameObject: {fileID: 8298375988842637173}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -2.509, y: -1.324, z: 0}
-  m_LocalScale: {x: 0.9708, y: 1.0234, z: 1}
+  m_LocalScale: {x: 1.117779, y: 1.2705511, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 8298375988171812147}
@@ -143,7 +143,7 @@ MonoBehaviour:
   playerCollider: {fileID: 8298375988842637170}
   isClimbing: 0
   GroundCheck: {fileID: 8298375988171812147}
-  GroundCheckRadius: 0.4
+  GroundCheckRadius: 0.29
   collisionLayer:
     serializedVersion: 2
     m_Bits: 1
@@ -221,8 +221,8 @@ CapsuleCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0.013691386, y: -0.2039978}
-  m_Size: {x: 0.61734205, y: 0.87757003}
+  m_Offset: {x: 0.011490507, y: -0.20181912}
+  m_Size: {x: 0.6481545, y: 0.87321234}
   m_Direction: 0
 --- !u!114 &1624003547
 MonoBehaviour:

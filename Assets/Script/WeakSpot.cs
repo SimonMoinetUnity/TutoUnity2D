@@ -2,8 +2,8 @@ using UnityEngine;
 
 public class WeakSpot : MonoBehaviour
 {
-    public AudioClip killSound;
     public GameObject objectToDestroy;
+    public AudioClip killSound;
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
